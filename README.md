@@ -1,0 +1,1 @@
+# RN-camera-amplitude-conflict
