@@ -4,7 +4,7 @@
 
 ## Problem: when turn on Amplitude Session Replay and then open Camera, App will CRdSOm13mOBa42iTaTyfyEWBdKcGdPxPtLFBXuHR8XHb33YNYaP
 
-### Text of Error
+### Text of Error in Xcode:
 
 *** Terminating app due to uncaught exception 'NSInternalInconsistencyException', reason: 'An instance 0x300c83ed0 of class AVCaptureVideoPreviewLayer was deallocated while key value observers were still registered with it. Current observation info: <NSKeyValueObservationInfo 0x300338500> (
 <NSKeyValueObservance 0x300d156e0: Observer: 0x30006c620, Key path: contents, Options: <New: NO, Old: NO, Prior: NO> Context: 0x0, Property: 0x300d15c80>
